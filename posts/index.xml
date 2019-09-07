@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Philippe Moneda</title>
+    <link>https://pmoneda.github.io/posts/</link>
+    <description>Recent content in Posts on Philippe Moneda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Sep 2019 16:16:46 -0300</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pmoneda.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bem vindo ao meu blog</title>
-      <link>http://example.org/posts/firstpost/</link>
+      <link>https://pmoneda.github.io/posts/firstpost/</link>
       <pubDate>Sat, 07 Sep 2019 16:16:46 -0300</pubDate>
       
-      <guid>http://example.org/posts/firstpost/</guid>
+      <guid>https://pmoneda.github.io/posts/firstpost/</guid>
       <description>Teste</description>
     </item>
     

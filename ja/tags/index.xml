@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Philippe Moneda</title>
-    <link>https://pmoneda.github.io/tags/</link>
+    <link>https://pmoneda.github.io/ja/tags/</link>
     <description>Recent content in Tags on Philippe Moneda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pmoneda.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pmoneda.github.io/ja/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

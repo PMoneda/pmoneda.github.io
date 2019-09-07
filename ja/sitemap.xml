@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://pmoneda.github.io/ja/autores/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pmoneda.github.io/autores/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://pmoneda.github.io/ja/autores/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://pmoneda.github.io/ja/categorias/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pmoneda.github.io/categorias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://pmoneda.github.io/ja/categorias/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://pmoneda.github.io/ja/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pmoneda.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://pmoneda.github.io/ja/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://pmoneda.github.io/ja/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pmoneda.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://pmoneda.github.io/ja/tags/"
+                />
+  </url>
+  
+</urlset>
